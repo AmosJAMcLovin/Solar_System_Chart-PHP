@@ -1,2 +1,2 @@
 # Solar_System_Chart-PHP
-Displaying a solar system chart through PHP
+Assignment that required us to fill in the blanks of a solar system chart using PHP
